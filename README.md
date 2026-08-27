@@ -289,7 +289,3 @@ The project uses **synthetically generated data** created specifically for this 
 The large session-level dataset is excluded from GitHub because it exceeds GitHub's individual file-size limit; the data-generation scripts and analytical outputs remain available in the repository.
 
 The business context is inspired by publicly discussed EV charging-network dynamics. All customer data, charging sessions, experimental outcomes, economic assumptions, and recommendations in this project are illustrative.
-
-```
-Paste this one, commit it, and then we're basically at the **final GitHub presentation check**.
-```
