@@ -1,0 +1,7 @@
+metric,value
+Treatment customers,2357.0
+Incremental shifted sessions,5235.0
+Incremental shifted sessions / treated customer,2.221043699618159
+Incremental value / treated customer,44.42087399236318
+Intervention cost / treated customer,5.0
+Net value / treated customer,39.42087399236318

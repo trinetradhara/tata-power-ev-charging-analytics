@@ -1,0 +1,15 @@
+metric,value
+Control shift rate,0.1151964757373203
+Treatment shift rate,0.1618741352877388
+Incremental shift rate,0.04667765955041851
+Control shifted sessions,12081.0
+Treatment shifted sessions,17316.0
+Incremental shifted sessions,5235.0
+Value per shifted session,20.0
+Incremental value,104700.0
+Intervention cost,11785.0
+Fixed implementation cost,0.0
+Total intervention cost,11785.0
+Net incremental value,92915.0
+ROI,7.8841747984726345
+Cost per incremental shifted session,2.251193887297039

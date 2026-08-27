@@ -1,0 +1,3 @@
+experiment_group,customers,responders,peak_sessions,shifted_peak_sessions,response_rate,session_shift_rate
+Control,2304,446,104873,12081,0.1935763888888889,0.11519647573732038
+Treatment,2357,678,106972,17316,0.2876537971998303,0.16187413528773884

@@ -1,0 +1,13 @@
+decision_area,value
+Target segment,High_Mileage
+Priority city,Delhi NCR
+Treatment shift rate,0.1618741352877388
+Control shift rate,0.1151964757373203
+Observed lift,0.04667765955041851
+Incremental shifted sessions,5235
+Incremental value,104700
+Intervention cost,11785
+Net incremental value,92915
+ROI,788.4174798472634
+Break-even value/session,2.251193887297039
+Final scale decision,SCALE
